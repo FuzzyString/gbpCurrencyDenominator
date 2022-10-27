@@ -4,14 +4,10 @@ import java.text.DecimalFormat;
 
 public class Main
 {
-
-
     public static void main(String[] args)
     {
         cashConverter(149.57);
     }
-
-
 
     public static void cashConverter(double amount)
     {
